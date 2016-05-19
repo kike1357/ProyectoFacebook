@@ -12,7 +12,7 @@ import facebook4j.conf.ConfigurationBuilder;
 
 /**
  *
- * @author Nabor
+ * @author Adrián 
  */
 public class Facebook4j {
 
@@ -20,7 +20,7 @@ public class Facebook4j {
      * @param args the command line arguments
      */
     public static void main(String[] args) throws FacebookException {
-       JFrame prueba = new JFrame();
+       Ventana prueba = new Ventana();
         prueba.setVisible(true);
         
         
